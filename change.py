@@ -5,4 +5,4 @@ def change():
     print ( "Dinero recibido:" \n money \n )
     print ( "Vuelto" \n )
     print ( "Pesos:" \n int(money-expense) )
-    print ( "Centavos:" \n (money-expense) - int(money-expense) )
+    print ( "Centavos:" \n (money-expense) - int(money-expense)*100 )

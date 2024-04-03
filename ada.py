@@ -3,4 +3,6 @@ def ada():
     last_name = "LoVeLAce"
     print ( first_name.lower() + " " + last_name.lower() )
     print ( first_name.title() + " " + last_name.title() )
-    print ( fisrt_name.upper() + " " + last_name.upper()\t first_name.lower() + " " + last_name.lower() )
+    print ( fisrt_name.upper() + " " + last_name.upper() )
+    print ("\t" + first_name.lower() + " " + last_name.lower() )
+ada() 
